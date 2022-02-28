@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AIRbots/static/css/main.895ff2ad.css",
+    "main.css": "/AIRbots/static/css/main.614755f8.css",
     "main.js": "/AIRbots/static/js/main.4cc5d5d1.js",
     "static/media/img-2.jpg": "/AIRbots/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/robog.jpg": "/AIRbots/static/media/robog.2d0992930ec622e986c1.jpg",
@@ -9,11 +9,11 @@
     "static/media/robot1.jpg": "/AIRbots/static/media/robot1.713c3cceedb788337d7f.jpg",
     "static/media/logo3.jpg": "/AIRbots/static/media/logo3.81d41258d8176a376b0b.jpg",
     "index.html": "/AIRbots/index.html",
-    "main.895ff2ad.css.map": "/AIRbots/static/css/main.895ff2ad.css.map",
+    "main.614755f8.css.map": "/AIRbots/static/css/main.614755f8.css.map",
     "main.4cc5d5d1.js.map": "/AIRbots/static/js/main.4cc5d5d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.895ff2ad.css",
+    "static/css/main.614755f8.css",
     "static/js/main.4cc5d5d1.js"
   ]
 }
